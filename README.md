@@ -1,1 +1,1 @@
-# GARCH-analysis-sensitivity
+# Volatility-Forecast-Model
